@@ -3,6 +3,10 @@
 }
 
 /*/-/-/-/-/ GRID SYSTEM /-/-/-/-/*/
+.row {
+    padding-bottom: 30px;
+}
+
 [class*="col-"] {
     float: left;
     padding: 15 px;
@@ -32,10 +36,10 @@
 /* medium screens */
 
 @media only screen and (max-width:1200px) {
-.col-1 {width: 16.66%;}
-.col-2 {width: 16.66%;}
-.col-3 {width: 33.33%;}
-.col-4 {width: 33.33%;}
+.col-1 {width: 100%;}
+.col-2 {width: 100%;}
+.col-3 {width: 100%;}
+.col-4 {width: 100%;}
 .col-5 {width: 50%;}
 .col-6 {width: 50%;}
 .col-7 {width: 66.66%;}
