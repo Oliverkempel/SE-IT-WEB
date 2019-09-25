@@ -101,7 +101,7 @@
 
 .topnav-style a {
     float: left; 
-
+    display: block; 
 }
 
 
