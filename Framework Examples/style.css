@@ -85,3 +85,19 @@
     }
 }
 
+
+
+
+/*/-/-/-/-/ Responsive Navbar /-/-/-/-/*/
+
+.topnav-style {
+    background-color: #333;
+    overflow: hidden;
+}
+
+.topnav-style a {
+    float: left; 
+
+}
+
+
